@@ -2,7 +2,7 @@ body {
     font-family: 'Lato', sans-serif;
     width: 50%;
 }
-.header {
+/*.header {
     height: 90px;
     width: 1000px;
     background-color: #BDE2D0;
@@ -52,7 +52,7 @@ figure {
     margin-left: 100px;
 
 }
-
+*/
 .mesagge-hero {
     height: 90px;
     width: 1000px;
@@ -241,7 +241,7 @@ hr {
     margin: 0 5px;
 }
 .social-link.twitter {
-    background-image: url(/img/twitter-img.png);
+    background-image: url(//twitter-img.png);
     background-size: 50px 50px;
 }
 .social-link.instagram {
